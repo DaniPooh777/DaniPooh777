@@ -3,3 +3,5 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Que+la+fuerza+te+acompañe..&hearts;++;Joven+Estudiante,;Amante+de+los+videojuegos,;Apasoñado+de+la+informática..<3"></a>
 </p>
+<br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniPooh77&theme=dark" alt="anii693" /></p>
