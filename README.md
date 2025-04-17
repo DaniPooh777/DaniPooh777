@@ -3,5 +3,16 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Que+la+fuerza+te+acompañe..&hearts;++;Joven+Estudiante,;Amante+de+los+videojuegos,;Apasoñado+de+la+informática..<3"></a>
 </p>
-<br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniPooh77&theme=dark" alt="anii693" /></p>
+<br>
+------------
+| ![DaniPooh777 GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniPooh777&show_icons=true&theme=radical)  |  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DaniPooh&theme=dark&border_radius=4&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> |
+| ------------ | ------------ |
+
+
+
+
+
+
+
+
+
