@@ -34,7 +34,7 @@
 <div align="center">
 	<h2>🧱 My Contributions 🧱</h2>
 	<br>
-	<img alt="Snake eating my contributions" src="
+	<img alt="Snake eating my contributions" src="" />
 </div>
 
 <h2 align="center">📊 Stats 📊</h2>
@@ -61,3 +61,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://platane.github.io/snk/" />
+</picture>
