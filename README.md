@@ -33,8 +33,11 @@
 <br/>
 <div align="center">
 	<h2>🧱 My Contributions 🧱</h2>
-	<br>
-	<img alt="Snake eating my contributions" src="" />
+	<picture>
+  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniPooh777/DaniPooh777/output/github-snake-dark.svg" />
+  		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniPooh777/DaniPooh777/output/github-snake.svg" />
+  		<img alt="github-snake" src="https://raw.githubusercontent.com/DaniPooh777/DaniPooh777/output/github-snake.svg" />
+	</picture>
 </div>
 
 <h2 align="center">📊 Stats 📊</h2>
@@ -54,7 +57,6 @@
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=DaniPooh777&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-<br/>
 
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
 <p align="center">
