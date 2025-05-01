@@ -6,15 +6,15 @@
 		</a>
 </h1>
 
-<h3 align="center">💻 A passionate programmer from Spain 💻</h3>
+<h3 align="center">💻 Un programador apasionado de España 💻</h3>
 
 <div align="center">
  
-  🌱 I’m currently learning **Python**
+  🌱 Actualmente estoy aprendiendo **Python**.
   
- 🔭 I’m currently working on **a Rogue game**
+ 🔭 Actualmente estoy trabajando en **un juego Rogue**.
 
-⚡ Fun fact **Yoda was originally going to be played by a monkey with a mask. 🐒**
+⚡ Dato curioso **Yoda iba a ser interpretado originalmente por un mono con máscara. 🐒**
  </div>
  
 <div align="center">
@@ -32,7 +32,7 @@
 </div>
 <br/>
 <div align="center">
-	<h2>🧱 My Contributions 🧱</h2>
+	<h2>🧱 Mis Contribuciones 🧱</h2>
 	<picture>
   		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniPooh777/DaniPooh777/output/github-snake-dark.svg" />
   		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniPooh777/DaniPooh777/output/github-snake.svg" />
@@ -40,7 +40,7 @@
 	</picture>
 </div>
 
-<h2 align="center">📊 Stats 📊</h2>
+<h2 align="center">📊 Estadísticas 📊</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniPooh777&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
@@ -53,7 +53,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DaniPooh777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 <br/><br/>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏆 Trofeos GitHub 🏆</h2>
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=DaniPooh777&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
