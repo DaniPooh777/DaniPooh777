@@ -53,11 +53,6 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DaniPooh777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 <br/><br/>
 
-<h2 align="center">🏆 Trofeos GitHub 🏆</h2>
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=DaniPooh777&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
