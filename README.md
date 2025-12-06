@@ -40,16 +40,6 @@
 	</picture>
 </div>
 
-<h2 align="center">📊 Estadísticas 📊</h2>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniPooh777&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=DaniPooh777&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="400" />
-	<img src="https://nirzak-streak-stats.vercel.app/?user=DaniPooh777&theme=radical&hide_border=true" width="439" />
-</p>
-<br/>
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DaniPooh777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 <br/><br/>
 
