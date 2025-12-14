@@ -4,7 +4,7 @@
 
 <div align="center">
 Aquí es donde construyo, rompo y arreglo cosas. Un espacio para mis proyectos personales, pruebas de concepto y experimentos tecnológicos. Explora mis repositorios para ver mis trabajos más recientes <br/><br/>
-  🌱 Actualmente estoy aprendiendo **Python**.<br/><br/>
+  🌱 Actualmente estoy aprendiendo Python.<br/><br/>
  🔭 Actualmente estoy trabajando en una página web.
  </div>
  <br/>
@@ -12,7 +12,7 @@ Aquí es donde construyo, rompo y arreglo cosas. Un espacio para mis proyectos p
 	<h2>💾 Mis Habilidades 💾</h2>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,figma,github,gmail,html,css,obsidian,ps,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,github,html,css,obsidian,ps,py,vscode)](https://skillicons.dev)
 
 <br/>
 <div align="center">
