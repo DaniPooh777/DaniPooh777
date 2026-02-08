@@ -18,13 +18,8 @@ Aquí es donde construyo, rompo y arreglo cosas. Un espacio para mis proyectos p
 <div align="center">
 	<h2>🧱 Mis Contribuciones 🧱</h2>
 	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Title=3BDDB0">    <img  alt="DaniPooh777's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DaniPooh777?cardType=level&theme=tokyonight&preferLogin=true&Title=3BDDB0" />  </a>
-	<picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniPooh777/DaniPooh777/output/github-snake-dark.svg" />
-  		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniPooh777/DaniPooh777/output/github-snake.svg" />
-  		<img alt="github-snake" src="https://raw.githubusercontent.com/DaniPooh777/DaniPooh777/output/github-snake.svg" />
-	</picture>
 </div>
-
+  <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DaniPooh777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
