@@ -82,7 +82,7 @@ Aquí es donde construyo, rompo y arreglo cosas. Un espacio para mis proyectos p
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
 		</kbd>
 	</p>
-	<p>
+	<p align ="center">
 		<kbd>
 			<kbd>🕓 Version Control</kbd>
 			<br>
