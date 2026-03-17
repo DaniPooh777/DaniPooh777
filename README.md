@@ -12,7 +12,7 @@ Aquí es donde construyo, rompo y arreglo cosas. Un espacio para mis proyectos p
 	<h2>💾 Mis Habilidades 💾</h2>
 </div>
 
-<div>
+<div align="center">
 	<p style="display: inline-block;">
 	<p>
 		<kbd>
