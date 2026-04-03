@@ -1,12 +1,12 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DaniPooh777&fontSize=70" width="100%"/> </div>
 
-<h3 align="center">💻 Un programador apasionado de España 💻</h3>
+<h3 align="center">💻 Desarrollador en formación 💻</h3>
 
 <div align="center">
-Aquí es donde construyo, rompo y arreglo cosas. Un espacio para mis proyectos personales, pruebas de concepto y experimentos tecnológicos. Explora mis repositorios para ver mis trabajos más recientes <br/><br/>
-  🌱 Actualmente estoy aprendiendo Python.<br/><br/>
- 🔭 Actualmente estoy trabajando en una página web.
- </div>
+Desarrollador web en formación con interés en Python y desarrollo frontend. Creo proyectos para aprender y mejorar mis habilidades técnicas. Explora mis repositorios para ver mi trabajo.<br/><br/>
+🌱 Aprendiendo Python.<br/><br/>
+🔭 Trabajando en una página web y en un juego.
+</div>
  <br/>
 <div align="center">
 	<h2>💾 Mis Habilidades 💾</h2>
