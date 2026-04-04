@@ -3,7 +3,7 @@
 <h3 align="center">💻 Desarrollador en formación 💻</h3>
 
 <div align="center">
-Desarrollador web en formación con interés en Python y desarrollo frontend. Creo proyectos para aprender y mejorar mis habilidades técnicas. Explora mis repositorios para ver mi trabajo.<br/><br/>
+Desarrollador en formación con interés en Python. Creo proyectos para aprender y mejorar mis habilidades técnicas. Explora mis repositorios para ver mi trabajo.<br/><br/>
 🌱 Aprendiendo Python.<br/><br/>
 🔭 Trabajando en una página web y en un juego.
 </div>
