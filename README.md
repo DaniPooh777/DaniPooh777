@@ -97,10 +97,17 @@ Desarrollador en formación con interés en Python. Creo proyectos para aprender
 	<h2>🧱 Mis Contribuciones 🧱</h2>
 	  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=true&Title=3BDDB0">    <img  alt="DaniPooh777's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DaniPooh777?cardType=level&theme=tokyonight&preferLogin=true&Title=3BDDB0" />  </a>
 </div>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DaniPooh777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
+<br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DaniPooh777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 
-<h2 align="center">✍️ Random Dev Quote ✍️</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<br/>
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+
+<a href="https://github.com/DaniPooh777" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
+
