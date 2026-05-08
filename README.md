@@ -107,7 +107,7 @@ Desarrollador en formación con interés en Python. Creo proyectos para aprender
 
 <br/>
 
-<a href="https://github.com/DaniPooh777" target="_blank" rel="noopener" style="display: block; text-align: right;">
-  ↑ Volver al inicio
+<a href="https://github.com/DaniPooh777" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
 
