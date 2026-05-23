@@ -12,13 +12,9 @@
 
 </div>
 
----
-
 ## 🧠 Sobre mí
 
 Desarrollador en formación, autodidacta, construyendo proyectos para aprender y mejorar. Actualmente metido de lleno en Python, maquetando mi primera web y desarrollando un juego.
-
----
 
 ## 🛠️ Stack
 
@@ -42,13 +38,9 @@ Desarrollador en formación, autodidacta, construyendo proyectos para aprender y
   <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square" />
 </p>
 
----
-
 ## 🎮 Proyecto destacado
 
 **[ROGUETHON](https://github.com/DaniPooh777/ROGUETHON)** — proyecto personal para aprender a desarrollar un proyecto grande, aplicar lo aprendido en Python y ahora también estoy integrando conocimientos de IA en él.
-
----
 
 ## 📊 Stats
 
