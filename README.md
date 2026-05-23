@@ -46,7 +46,7 @@ Desarrollador en formación, autodidacta, construyendo proyectos para aprender y
 
 ## 🎮 Proyecto destacado
 
-**Juego en Python** — proyecto personal para aprender lógica, estructuras de datos y mecánicas de juego desde cero.
+**[ROGUETHON](https://github.com/DaniPooh777/ROGUETHON)** — proyecto personal para aprender a desarrollar un proyecto grande, aplicar lo aprendido en Python y ahora también estoy integrando conocimientos de IA en él.
 
 ---
 
