@@ -20,7 +20,7 @@ La primera parada fue mi juego: armé la **versión 1.0 de ROGUETHON**, un rogue
 
 Después llegó el desarrollo web. Construí mi **primera página web con Python usando Reflex**, un proyecto que me permitió entender cómo funcionan las aplicaciones web del lado del servidor, estilizar con CSS y ver el resultado tangible de lo que había aprendido.
 
-Ahora estoy de vuelta en el juego, pero con una mochila mucho más pesada. **Retomé ROGUETHON aplicando todo lo aprendido**, esta vez integrando IA para dar forma a mis ideas de una manera que antes no podía. No uso la IA como muleta, sino como herramienta: siguiendo la metodología de **Tony Stark y Jarvis**, donde yo dirijo y la IA ejecuta, pero el aprendizaje nunca se delega.
+Ahora estoy de vuelta en el juego, pero con una mochila mucho más pesada. **Retomé ROGUETHON aplicando todo lo aprendido**, esta vez integrando IA para dar forma a mis ideas de una manera que antes no podía. No uso la IA como muleta, sino como herramienta: siguiendo la metodología **Gentleman Programming**, al estilo **Tony Stark y Jarvis**, donde yo dirijo y la IA ejecuta, pero el aprendizaje nunca se delega.
 
 ## 🛠️ Stack
 
