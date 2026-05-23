@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 👋 Hola, soy DaniPooh777
-
 <h3>🐍 Python · 🎮 Game Dev Junior · 🤖 IA</h3>
 
 <p>
