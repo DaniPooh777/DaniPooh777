@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hola, soy DaniPooh777
 
 <h3>🐍 Python · 🌐 Web · 🎮 Game Dev</h3>
@@ -7,6 +9,8 @@
   <img src="https://img.shields.io/github/followers/DaniPooh777?label=Seguidores&style=flat-square&color=f0db4f" alt="Seguidores"/>
   <img src="https://img.shields.io/github/stars/DaniPooh777?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>
 </p>
+
+</div>
 
 ---
 
