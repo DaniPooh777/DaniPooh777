@@ -22,23 +22,25 @@ Desarrollador en formación, autodidacta, construyendo proyectos para aprender y
 
 ## 🛠️ Stack
 
-<div align="center">
+<h4 align="center">Lenguajes</h4>
 
-**Lenguajes**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,markdown" alt="Lenguajes" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,markdown" alt="Lenguajes" />
+<h4 align="center">Herramientas</h4>
 
-**Herramientas**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,inkscape" alt="Herramientas" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,inkscape" alt="Herramientas" />
+<h4 align="center">IA</h4>
 
-**IA**
-
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square" />
+</p>
 
 ---
 
