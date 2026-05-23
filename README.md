@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%" alt="DaniPooh777 Banner" />
+
 <div align="center">
 
 # 👋 Hola, soy DaniPooh777
