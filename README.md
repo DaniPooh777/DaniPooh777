@@ -31,7 +31,7 @@ Desarrollador en formación, autodidacta, construyendo proyectos para aprender y
 <h4 align="center">Herramientas</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,inkscape" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Herramientas" />
 </p>
 
 <h4 align="center">IA</h4>
