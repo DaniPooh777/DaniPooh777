@@ -14,7 +14,13 @@
 
 ## 🧠 Sobre mí
 
-Desarrollador en formación, autodidacta, construyendo proyectos para aprender y mejorar. Actualmente metido de lleno en Python, maquetando mi primera web y desarrollando un juego.
+Autodidacta desde hace un par de años con Python. Lo que empezó como curiosidad se fue convirtiendo en un camino de aprendizaje constante, construyendo proyectos cada vez más grandes.
+
+La primera parada fue mi juego: armé la **versión 1.0 de ROGUETHON**, un roguelike hecho en Python. Un proyecto que me enseñó sobre lógica, estructuras de datos y lo que realmente implica llevar una idea a código funcionando.
+
+Después llegó el desarrollo web. Construí mi **primera página web con Python usando Reflex**, un proyecto que me permitió entender cómo funcionan las aplicaciones web del lado del servidor, estilizar con CSS y ver el resultado tangible de lo que había aprendido.
+
+Ahora estoy de vuelta en el juego, pero con una mochila mucho más pesada. **Retomé ROGUETHON aplicando todo lo aprendido**, esta vez integrando IA para dar forma a mis ideas de una manera que antes no podía. No uso la IA como muleta, sino como herramienta: siguiendo la metodología de **Tony Stark y Jarvis**, donde yo dirijo y la IA ejecuta, pero el aprendizaje nunca se delega.
 
 ## 🛠️ Stack
 
