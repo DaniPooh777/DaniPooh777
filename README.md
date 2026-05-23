@@ -23,7 +23,7 @@ Desarrollador en formación, autodidacta, construyendo proyectos para aprender y
 ## 🛠️ Stack
 
 **Lenguajes** · Python · HTML · CSS · Markdown  
-**Herramientas** · Git · VS Code · Figma · Photoshop · Inkscape  
+**Herramientas** · Git · VS Code · Figma · Inkscape  
 **IA** · ChatGPT · Gemini · OpenCode
 
 ---
@@ -34,11 +34,13 @@ Desarrollador en formación, autodidacta, construyendo proyectos para aprender y
 
 ---
 
+## 📊 Stats
+
 <div align="center">
 
-## 📊 GitHub
-
 ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DaniPooh777?cardType=level&theme=tokyonight&preferLogin=true&Title=3BDDB0)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DaniPooh777&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 
 </div>
 
