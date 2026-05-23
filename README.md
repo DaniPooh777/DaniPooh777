@@ -22,9 +22,23 @@ Desarrollador en formación, autodidacta, construyendo proyectos para aprender y
 
 ## 🛠️ Stack
 
-**Lenguajes** · Python · HTML · CSS · Markdown  
-**Herramientas** · Git · VS Code · Figma · Inkscape  
-**IA** · ChatGPT · Gemini · OpenCode
+<div align="center">
+
+**Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=python,html,css,markdown" alt="Lenguajes" />
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,ps,inkscape" alt="Herramientas" />
+
+**IA**
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square" />
+
+</div>
 
 ---
 
