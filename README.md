@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3>🐍 Python · 🎮 Game Dev Junior · 🤖 IA</h3>
+<h3>🐍 Python · 📙 Autodidacta · 🤖 IA</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=DaniPooh777&label=Visitas&color=f0db4f&style=flat-square" alt="Visitas al perfil"/>
